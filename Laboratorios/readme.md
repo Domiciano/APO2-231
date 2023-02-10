@@ -10,8 +10,8 @@ Aquí podrá encontrar los enlaces a los laboratorios del curso
 <a href="https://docs.google.com/document/d/1Pfwir5SPBZXiU0_Wc_6DoTdJoq3KV8VR/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">LAB 1</a><br>
 
 
-<a href="">LAB 2</a><br>
-Comming soon...
+<a href="https://docs.google.com/document/d/1M2f39ZzDJI-iK46xiXRN-skLYnxt-EON/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">LAB 2</a><br>
+
 
 
 <a href="">LAB 3</a><br>
