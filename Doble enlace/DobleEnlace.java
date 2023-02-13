@@ -47,6 +47,18 @@ public class DobleEnlace {
             return;
         }
         if(current.getName().equals(goal)){
+            if(current == head){
+                Node next = head.getNext();
+                next.setPrevious(null);
+                head = next;
+                return;
+            }
+            if(current == tail){
+                Node prev = tail.getPrevious();
+                prev.setNext(null);
+                tail = prev;
+                return;
+            }
             //Eliminar
             Node prev = current.getPrevious();
             Node next = current.getNext();

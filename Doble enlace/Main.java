@@ -17,8 +17,8 @@ public class Main {
                 new Node("Z")
         );
         lista.print();
-        lista.delete("C");
-        System.out.println("----");
+        lista.delete("D");
+        System.out.println("*****");
         lista.print();
 
     }
