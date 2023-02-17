@@ -14,8 +14,8 @@ Aquí podrá encontrar los enlaces a los laboratorios del curso
 
 
 
-<a href="">LAB 3</a><br>
-Comming soon...
+<a href="https://docs.google.com/document/d/18vlZ4JHfAIOZ00OPEOTPpfmAMP20McHh/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">LAB 3</a><br>
+CALIFICABLE
 
 <a href="">LAB 4</a><br>
 Comming soon...
