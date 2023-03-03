@@ -20,8 +20,8 @@ CALIFICABLE
 <a href="https://docs.google.com/document/d/1nn1iqcv7iBYkQZKYcY27kUsTjDD9THHj/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">LAB 4</a><br>
 
 
-<a href="">LAB 5</a><br>
-Comming soon...
+<a href="https://docs.google.com/document/d/1auL8inla1h7Do53gCgmgZhHvB49amK0U/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">LAB 5</a><br>
+CALIFICABLE
 
 <a href="">LAB 6</a><br>
 Comming soon...
