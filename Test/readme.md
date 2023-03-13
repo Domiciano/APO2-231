@@ -4,6 +4,9 @@
 <a href="https://docs.google.com/document/d/1pmCE3p_sOByplPq3sx8I4OkXnmm1pZ-M/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">Formato de test 2023</a>
 
 
+### Problema
+Queremos hacer una lista de contactos. Liste requerimientos, haga un conjunto de pruebas iniciales, programe los test para pasarlos y finalmente refactorice el código. Vuelva a refinar los test en caso de que le haga falta probar otros posibles caminos
+
 ### Clase Contact
 	1. Crear un objeto correctamente
 	2. Los campos NO deben estar vacíos 
